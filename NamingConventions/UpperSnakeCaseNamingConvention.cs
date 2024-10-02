@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
-using Radiant.NET.Database.Conventions.Helpers;
+using Radiant.Database.Conventions.Helpers;
 
-namespace Radiant.NET.Database.Conventions.NamingConventions;
+namespace Radiant.Database.Conventions.NamingConventions;
 
 public class UpperSnakeCaseNamingConvention : IModelFinalizingConvention 
 {

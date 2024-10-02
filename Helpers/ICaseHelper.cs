@@ -1,4 +1,4 @@
-namespace Radiant.NET.Database.Conventions.Helpers;
+namespace Radiant.Database.Conventions.Helpers;
 
 public interface ICaseHelper
 {

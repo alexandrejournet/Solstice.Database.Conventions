@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Radiant.NET.Database.Conventions.NamingConventions;
+using Radiant.Database.Conventions.NamingConventions;
 
-namespace Radiant.NET.Database.Conventions.Injections;
+namespace Radiant.Database.Conventions.Injections;
 
 public class ConventionsInjections
 {

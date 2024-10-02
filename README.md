@@ -1,3 +1,3 @@
-# Radiant.NET.Database.Conventions
+# Radiant.Database.Conventions
 
-Partie Conventions de Radiant.NET Framework
+Partie Conventions de Radiant Framework

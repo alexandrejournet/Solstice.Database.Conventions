@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Radiant.NET.Database.Conventions.Helpers;
+namespace Radiant.Database.Conventions.Helpers;
 
 public class SnakeCaseHelper: ICaseHelper
 {
