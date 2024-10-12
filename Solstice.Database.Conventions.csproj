@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Title>Radiant.Database.Conventions</Title>
+        <Title>Solstice.Database.Conventions</Title>
         <Authors>Alexandre JOURNET</Authors>
         <Description>Starter pack for building .NET Core API With Clean code (Conventions Helper)</Description>
         <PackageTags>.NET; Clean; Clean code; Repository Pattern; Conventions</PackageTags>

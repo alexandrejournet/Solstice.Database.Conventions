@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
-using Radiant.Database.Conventions.Helpers;
+using Solstice.Database.Conventions.Helpers;
 
-namespace Radiant.Database.Conventions.NamingConventions;
+namespace Solstice.Database.Conventions.NamingConventions;
 
 public class LowerCaseNamingConvention : IModelFinalizingConvention 
 {

@@ -1,6 +1,6 @@
 using System.Text.RegularExpressions;
 
-namespace Radiant.Database.Conventions.Helpers;
+namespace Solstice.Database.Conventions.Helpers;
 
 public class UpperSnakeCaseHelper: ICaseHelper
 {

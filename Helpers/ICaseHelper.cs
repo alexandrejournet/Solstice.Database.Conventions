@@ -1,4 +1,4 @@
-namespace Radiant.Database.Conventions.Helpers;
+namespace Solstice.Database.Conventions.Helpers;
 
 public interface ICaseHelper
 {

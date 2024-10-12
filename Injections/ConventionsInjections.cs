@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using Radiant.Database.Conventions.NamingConventions;
+using Solstice.Database.Conventions.NamingConventions;
 
-namespace Radiant.Database.Conventions.Injections;
+namespace Solstice.Database.Conventions.Injections;
 
 public class ConventionsInjections
 {
