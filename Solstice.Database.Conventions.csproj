@@ -9,7 +9,15 @@
         <Authors>Alexandre JOURNET</Authors>
         <Description>Starter pack for building .NET Core API With Clean code (Conventions Helper)</Description>
         <PackageTags>.NET; Clean; Clean code; Repository Pattern; Conventions</PackageTags>
+        <PackageIcon>icon.png</PackageIcon>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Include="..\icon.png">
+        <Pack>True</Pack>
+        <PackagePath>\</PackagePath>
+      </None>
+    </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
